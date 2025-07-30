@@ -204,12 +204,12 @@ class FloatingCorrectionWidget(QWidget):
         print("DEBUG: UI initialized.", file=sys.stderr)
 
     def init_gemini(self):
-        # --- HARDCODING THE API KEY (as requested, disregarding security for immediate functionality) ---
-        # !!! WARNING: This is INSECURE for production. Your API key will be visible in the code. !!!
-        # For actual deployment, revert to environment variables or a secure secret management system.
+
+
+        
         
         # Updated API key based on your successful curl command
-        self.api_key = "AIzaSyCcUdKmCrqsKDWaTo0PfcR-UCoHXV7xgms" 
+        self.api_key = "ADD_KEY" 
         
         if not self.api_key:
             self.output_text.setText("Error: API key is not set. Cannot initialize Gemini functionality.")
