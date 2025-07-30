@@ -1,0 +1,57 @@
+DEBUG: FloatingCorrectionWidget __init__ called for the first time.
+DEBUG: Lock acquired: /home/rajeev/.floating_correction_app.lock
+DEBUG: Toggle check timer started.
+DEBUG: UI initialized.
+DEBUG: Gemini API key set and button enabled.
+DEBUG: Widget initialized and set to hidden with 0 opacity.
+DEBUG: Toggle signal file detected: /home/rajeev/.floating_correction_toggle_signal
+DEBUG: Toggle signal received and file removed. Toggling visibility.
+DEBUG: _toggle_visibility_animated called.
+DEBUG: _show_animated called.
+DEBUG: Animation finished. _is_animating set to False.
+DEBUG: Toggle signal file detected: /home/rajeev/.floating_correction_toggle_signal
+DEBUG: Toggle signal received and file removed. Toggling visibility.
+DEBUG: _toggle_visibility_animated called.
+DEBUG: _hide_animated called.
+DEBUG: Animation finished. _is_animating set to False.
+DEBUG: Toggle signal file detected: /home/rajeev/.floating_correction_toggle_signal
+DEBUG: Toggle signal received and file removed. Toggling visibility.
+DEBUG: _toggle_visibility_animated called.
+DEBUG: _show_animated called.
+DEBUG: Animation finished. _is_animating set to False.
+DEBUG: Toggle signal file detected: /home/rajeev/.floating_correction_toggle_signal
+DEBUG: Toggle signal received and file removed. Toggling visibility.
+DEBUG: _toggle_visibility_animated called.
+DEBUG: _hide_animated called.
+DEBUG: Animation finished. _is_animating set to False.
+DEBUG: Toggle signal file detected: /home/rajeev/.floating_correction_toggle_signal
+DEBUG: Toggle signal received and file removed. Toggling visibility.
+DEBUG: _toggle_visibility_animated called.
+DEBUG: _show_animated called.
+DEBUG: Animation finished. _is_animating set to False.
+DEBUG: Processing text. Using API Key: AIzaS...7xgms
+DEBUG: Text processed successfully.
+DEBUG: _hide_animated called.
+DEBUG: Animation finished. _is_animating set to False.
+DEBUG: Toggle signal file detected: /home/rajeev/.floating_correction_toggle_signal
+DEBUG: Toggle signal received and file removed. Toggling visibility.
+DEBUG: _toggle_visibility_animated called.
+DEBUG: _show_animated called.
+DEBUG: Animation finished. _is_animating set to False.
+DEBUG: Processing text. Using API Key: AIzaS...7xgms
+DEBUG: Text processed successfully.
+DEBUG: Toggle signal file detected: /home/rajeev/.floating_correction_toggle_signal
+DEBUG: Toggle signal received and file removed. Toggling visibility.
+DEBUG: _toggle_visibility_animated called.
+DEBUG: _hide_animated called.
+DEBUG: Animation finished. _is_animating set to False.
+DEBUG: Toggle signal file detected: /home/rajeev/.floating_correction_toggle_signal
+DEBUG: Toggle signal received and file removed. Toggling visibility.
+DEBUG: _toggle_visibility_animated called.
+DEBUG: _show_animated called.
+DEBUG: Animation finished. _is_animating set to False.
+DEBUG: Toggle signal file detected: /home/rajeev/.floating_correction_toggle_signal
+DEBUG: Toggle signal received and file removed. Toggling visibility.
+DEBUG: _toggle_visibility_animated called.
+DEBUG: _hide_animated called.
+DEBUG: Animation finished. _is_animating set to False.
